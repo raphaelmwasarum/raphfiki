@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raphfiki
 - 👀 I’m interested in programming and software development in java and C#.
-- 🌱 I’m currently learning advanced java and android and Hilt.
+- 🌱 I’m currently learning advanced java, android and Hilt.
 - 💞️ I’m looking to collaborate on java and android projects.
 - 📫 How to reach me: raphaelmwasaru@gmail.com, raphaelmwasaru@yahoo.com, raphaelmwasaru@outlook.com
 
